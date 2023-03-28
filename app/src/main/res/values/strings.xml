@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestDataBindingKotlin</string>
+
+    <string name="my_name">名字：%s,年龄：%1</string>
+</resources>
